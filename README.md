@@ -61,13 +61,13 @@ PhisX is a Chrome extension designed to detect and block phishing URLs in real-t
 
 ## Author
 
-- [@saiabhiramjaini](https://github.com/saiabhiramjaini)
+- [@katakampranav](https://github.com/katakampranav)
 
-- Repo - https://github.com/saiabhiramjaini/PhisX-Chrome-Extension
+- Repo - https://github.com/katakampranav/PhisX-Chrome-Extension
 
 ## Feedback
 
-If you have any feedback, please reach out me at abhiramjaini28@gmail.com
+If you have any feedback, please reach out me at katakampranavshankar@gmail.com
 
 
 
